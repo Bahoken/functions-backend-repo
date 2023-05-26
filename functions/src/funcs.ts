@@ -23,7 +23,7 @@ const getProfile = async (user: CustomUser, context:any) => {
 
 }
 
-const updateUser = async (user: CustomUser, context: any){
+const updateUser = async (user: CustomUser, context: any) => {
 
 }
 
